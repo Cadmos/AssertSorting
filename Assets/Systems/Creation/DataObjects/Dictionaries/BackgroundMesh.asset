@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f050275b2621aa343b93f34ebc30d866, type: 3}
+  m_Name: BackgroundMesh
+  m_EditorClassIdentifier: 
+  _meshEnumLinks:
+  - type: {fileID: 11400000, guid: e8b4836f79ed0c14f96774d345893013, type: 2}
+    mesh: {fileID: 0}
+  - type: {fileID: 11400000, guid: fbc3b036a52ce9b43b30c32642882e29, type: 2}
+    mesh: {fileID: -5208525878679748955, guid: 4cc8d529831552e41b44c4a06387b87b, type: 3}
+  - type: {fileID: 11400000, guid: bfebd46417b66d046845ba39b04163c4, type: 2}
+    mesh: {fileID: 4123522087476173304, guid: 2de5a85e2fd0ab348acd2b316ae5d3ae, type: 3}
+  - type: {fileID: 11400000, guid: 6c6ae00328b04b7459ad65e7753f2db1, type: 2}
+    mesh: {fileID: -7377102037300216657, guid: 7ae368585ca45854fb2c5d6b557e0629, type: 3}

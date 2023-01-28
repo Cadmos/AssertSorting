@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3446730794304508047
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.052555546
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2498986669108758861, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4091043428385601939, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: m_Name
+      value: variant_Button_Square_Metal_Grey_RedLight
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802408670601448994, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: _switchType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802408670601448994, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: _switchState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802408670601448994, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: _switchRecipe
+      value: 
+      objectReference: {fileID: 11400000, guid: f9c3e09c8790d344db8a1e05f7e82b9f, type: 2}
+    - target: {fileID: 8802408670601448994, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: _switchToggle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802408670601448994, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: _switchSignalType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8802408670601448994, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}
+      propertyPath: _switchControlType
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b32bc43d19b4c8a4f8434243f36cbe0c, type: 3}

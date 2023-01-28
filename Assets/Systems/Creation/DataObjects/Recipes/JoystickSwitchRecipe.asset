@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb689a750f7bb245b0ac745104a72b8, type: 3}
+  m_Name: JoystickSwitchRecipe
+  m_EditorClassIdentifier: 
+  _switchType: 4
+  _switchToggle: 2
+  _switchControlType: 1
+  _switchSignalType: 2
+  _switchState: 2
+  _switchLight: 1
+  _chosenFrameMeshEnumValue: {fileID: 0}
+  _frameMaterial: {fileID: 0}
+  _chosenBackgroundMeshEnumValue: {fileID: 11400000, guid: bfebd46417b66d046845ba39b04163c4, type: 2}
+  _backgroundMaterial: {fileID: 0}
+  _chosenImageMeshEnumValue: {fileID: 0}
+  _imageMaterial: {fileID: 0}
+  _imageTexture: {fileID: 0}
+  _chosenCoverMeshEnumValue: {fileID: 0}
+  _coverMaterial: {fileID: 0}
+  _chosenSwitchMeshEnumValue: {fileID: 0}
+  _switchMaterial: {fileID: 0}
+  _chosenLabelMeshEnumValue: {fileID: 0}
+  _labelText: 
+  _isSwitchPressAnimationInUse: 0
+  _isSwitchAnimatorInUse: 0
+  _animator: {fileID: 0}

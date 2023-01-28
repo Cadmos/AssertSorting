@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3372c00b2ffe2784aa4fd6a80215de94, type: 3}
+  m_Name: ObjectRecipe
+  m_EditorClassIdentifier: 
+  _gameObjectName: Object_001
+  _mesh: {fileID: -5208525878679748955, guid: 4cc8d529831552e41b44c4a06387b87b, type: 3}
+  _sharedMesh: {fileID: -5208525878679748955, guid: 4cc8d529831552e41b44c4a06387b87b,
+    type: 3}
+  _material: {fileID: 2100000, guid: 6123e3dfc84127442954a2e479104e09, type: 2}
+  _sharedMaterial: {fileID: 2100000, guid: 075addc0b87b91748a7ba6d3b3a68adf, type: 2}
+  _isStatic: 1
+  _layerName: Environment
+  _layer: 0
+  _isActive: 1

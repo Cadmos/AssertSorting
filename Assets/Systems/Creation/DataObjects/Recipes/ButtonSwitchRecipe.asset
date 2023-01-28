@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb689a750f7bb245b0ac745104a72b8, type: 3}
+  m_Name: ButtonSwitchRecipe
+  m_EditorClassIdentifier: 
+  _switchType: 1
+  _switchToggle: 2
+  _switchControlType: 1
+  _switchSignalType: 2
+  _switchState: 2
+  _switchLight: 1
+  _emissiveObject: {fileID: 0}
+  _colorActive: {r: 0, g: 0, b: 0, a: 0}
+  _colorInactive: {r: 0, g: 0, b: 0, a: 0}
+  _chosenFrameMeshEnumValue: {fileID: 11400000, guid: 8c2a8b0e0a1ffb042a8b3218dedabda9,
+    type: 2}
+  _frameMaterial: {fileID: 0}
+  _meshDictionary: {fileID: 11400000, guid: ffd1c321ea0f3704695af5a9711fc401, type: 2}
+  _chosenBackgroundMeshEnumValue: {fileID: 11400000, guid: 6c6ae00328b04b7459ad65e7753f2db1,
+    type: 2}
+  _backgroundMaterial: {fileID: 0}
+  _chosenImageMeshEnumValue: {fileID: 11400000, guid: 6fa2e25b72cba21419e56ec277d04cbe,
+    type: 2}
+  _imageMaterial: {fileID: 0}
+  _imageTexture: {fileID: 0}
+  _chosenCoverMeshEnumValue: {fileID: 11400000, guid: c006fb29439ef654a8c8a42bb20f7e1e,
+    type: 2}
+  _coverMaterial: {fileID: 0}
+  _chosenSwitchMeshEnumValue: {fileID: 11400000, guid: c8273448fffbb444d8c169686154d09b,
+    type: 2}
+  _switchMaterial: {fileID: 0}
+  _chosenLabelMeshEnumValue: {fileID: 11400000, guid: 72ecccb33f0e12c49a1c0f48ab9cc386,
+    type: 2}
+  _labelText: 
+  _isSwitchPressAnimationInUse: 0
+  _switchPressAnimation: {fileID: 0}
+  _isSwitchAnimatorInUse: 0
+  _switchAnimator: {fileID: 0}

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 16da7e587ef32b54a9f6be9fed5d97c3
+  m_SerializeEntries:
+  - m_GUID: 10d44d4f5edc6f549a7f11557f01a31b
+    m_Address: Assets/Graphics/Materials/mtl_EmissiveOnOff_Yellow_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6123e3dfc84127442954a2e479104e09
+    m_Address: Assets/Graphics/Materials/mtl_Metal_LightBlue_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9496c279427879e488832a69baba2d7c
+    m_Address: Assets/Graphics/Materials/mtl_SkyboxHDRI.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15b2a8b7d0606fd49b3f9453dbe578b0
+    m_Address: Assets/Graphics/Materials/mtl_EmissiveOnOff_Teal_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 755e95962861b0740be492e31940ab7c
+    m_Address: Assets/Graphics/Materials/mtl_EmissiveOnOff_Red_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 165969f691cf03141b1d00fe7d4e45da
+    m_Address: Assets/Graphics/Materials/mtl_GlassCover_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8670e42095deb4c43aebb73d09fc4981
+    m_Address: Assets/Graphics/Materials/mtl_Metal_Green_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6ede8ebf027bc34e81f7bb1b2ec83fc
+    m_Address: Assets/Graphics/Materials/mtl_EmissiveOnOff_Orange_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 075addc0b87b91748a7ba6d3b3a68adf
+    m_Address: Assets/Graphics/Materials/mtl_Metal_LightGrey_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f734d604a4a2cc541b02940eb4a2a019
+    m_Address: Assets/Graphics/Materials/mtl_Plastic_Black_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79cf61cf240b79245b47212388744392
+    m_Address: Assets/Graphics/Materials/mtl_EmissiveOnOff_Green_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 896de0d25a4ebe647b5a6a385b3460db
+    m_Address: Assets/Graphics/Materials/mtl_CutoutImage_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0cc37cf63017e284b94fb4a8a75c43df
+    m_Address: Assets/Graphics/Materials/mtl_Metal_Black_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c7a0539755e4474fb8c6a54f90a5e18
+    m_Address: Assets/Graphics/Materials/mtl_EmissiveOnOff_White_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cfd9341750ba8d439525dc26e180092
+    m_Address: Assets/Graphics/Materials/mtl_Matte_Black_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d4a112c6f4e58a4f8f5cd63b073ce85
+    m_Address: Assets/Graphics/Materials/mtl_Plastic_White_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ee568dae491e374393cfbe68e37f077
+    m_Address: Assets/Graphics/Materials/mtl_Metal_Red_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cf45daf90ee3a9f4498f4c84ea9f0570
+    m_Address: Assets/Graphics/Materials/mtl_TransparentAdditive_001.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcb8077debff8e944b35c9bd3f462857
+    m_Address: Assets/Prefabs/Cameras/Main Camera.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d65d644967215a84f9e4453965719af0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 59a7a96cc5ada7f45ac2fdb23f34516a, type: 2}
+    - {fileID: 11400000, guid: f05d580a590b29a42ae11ef3dc61fe55, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb689a750f7bb245b0ac745104a72b8, type: 3}
+  m_Name: MeveaStraddleCarrierHMI_PadLock
+  m_EditorClassIdentifier: 
+  _switchType: 1
+  _switchToggle: 2
+  _switchControlType: 1
+  _switchSignalType: 2
+  _switchState: 2
+  _switchLight: 1
+  _chosenFrameMeshEnumValue: {fileID: 11400000, guid: 8f65b13f40efed3468babc0811e32bf8, type: 2}
+  _frameMaterial: {fileID: 0}
+  _chosenBackgroundMeshEnumValue: {fileID: 11400000, guid: e8b4836f79ed0c14f96774d345893013, type: 2}
+  _backgroundMaterial: {fileID: 0}
+  _chosenImageMeshEnumValue: {fileID: 11400000, guid: 6fa2e25b72cba21419e56ec277d04cbe, type: 2}
+  _imageMaterial: {fileID: 0}
+  _imageTexture: {fileID: 0}
+  _chosenCoverMeshEnumValue: {fileID: 11400000, guid: 9e9dcdef510e41f4eab1362f9c0520ba, type: 2}
+  _coverMaterial: {fileID: 0}
+  _chosenSwitchMeshEnumValue: {fileID: 11400000, guid: b795e2f7ecdb31d4cb713eca65679e21, type: 2}
+  _switchMaterial: {fileID: 2100000, guid: 5ee568dae491e374393cfbe68e37f077, type: 2}
+  _chosenLabelMeshEnumValue: {fileID: 11400000, guid: 72ecccb33f0e12c49a1c0f48ab9cc386, type: 2}
+  _labelText: 
+  _isSwitchPressAnimationInUse: 1
+  _isSwitchAnimatorInUse: 1
+  _animator: {fileID: 0}
